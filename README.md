@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# sa-final-project
-
-=======
 # Software Architecture Project - Code Supplier Service
 **Group**: A\
 **Service Name**: Code Supplier Service
