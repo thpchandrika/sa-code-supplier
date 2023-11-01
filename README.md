@@ -1,5 +1,4 @@
-# Software Architecture Project - Code Supplier Service
-**Group**: A\
+Code Supplier Service
 **Service Name**: Code Supplier Service
 
 ## API Endpoint
